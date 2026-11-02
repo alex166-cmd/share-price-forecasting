@@ -111,8 +111,6 @@ ILLOVO-Share-Price-Analysis/
 └── ILLOVO-Share-Price-Analysis.Rproj
 ```
 
-*Note: This represents the intended logical project organisation. Adjust folder and filename references to match the actual repository.*
-
 ## 6. Analytical Methodology
 
 ### 6.1 Data Cleaning and Preparation
