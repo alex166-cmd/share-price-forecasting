@@ -88,10 +88,6 @@ The project follows a modular R scripting structure to separate data preparation
 ```text
 ILLOVO-Share-Price-Analysis/
 │
-├── R/
-│   ├── functions.R
-│   └── 00_setup.R
-│
 ├── data/
 │   ├── raw/
 │   └── processed/
